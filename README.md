@@ -46,7 +46,6 @@ deploying solutions on VPS and AWS servers. A proactive learner, ready to contri
 
 ## 🚀 Featured Projects
 
-### 🧠 [SIMILAR IMAGE PREDICTION & RETREVAL SYSTEM FOR DOWELL FRIDGE APP ](https://github.com/LL08-MathematicalModelling-dowell/100091-LogoScan)
 
 ### ✍️ [AI-Powered CCTV Monitoring and Compliance System](https://github.com/LL08-MathematicalModelling-dowell/100091-LogoScan/tree/cctv)
 The AI-Powered CCTV Monitoring and Compliance
@@ -60,6 +59,10 @@ Detections:
 *  Outfit Detection
 *  Facial Detection
 *  Anomaly Detection
+
+### 🧠 [SIMILAR IMAGE PREDICTION & RETREVAL SYSTEM FOR DOWELL FRIDGE APP ](https://github.com/LL08-MathematicalModelling-dowell/100091-LogoScan)
+
+
 
 
 
