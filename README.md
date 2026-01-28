@@ -57,10 +57,10 @@ resource requirements, and potential challenges, ensuring a smooth implementatio
 optimal performance.
 
 Detections:
-Humans Detection
-Outfit Detection
-facial Detection 
-Anomaly Detection
+*  Humans Detection
+*  Outfit Detection
+*  Facial Detection
+*  Anomaly Detection
 
 
 
