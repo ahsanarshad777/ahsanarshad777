@@ -9,7 +9,6 @@ deploying solutions on VPS and AWS servers. A proactive learner, ready to contri
 - **Scalable backend systems** with Python and FastAPI — powering SaaS platforms and enterprise-grade APIs
 - **AI, ML, NLP, and Computer Vision** integrations for automation, data cleaning, object detection and intelligent decision-making
 - **Cloud-native deployments** on AWS, Docker, and Kubernetes with CI/CD pipelines for rapid, reliable releases
-- **Third-party API integrations** (HubSpot, Stripe, Shopify, Google APIs) at high data volumes
 - **Secure API design** with OAuth2, JWT, and role-based access controls
 - **Optimization & automation** to reduce latency, cut costs, and improve developer productivity
 
